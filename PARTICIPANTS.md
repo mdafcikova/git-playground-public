@@ -3,6 +3,7 @@
 1. 
 
 # Students
+1. Filip Holoubek
 Nina Duchyňová
 Barbora Miklošová
 
