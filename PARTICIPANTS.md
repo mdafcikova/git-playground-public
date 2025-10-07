@@ -1,29 +1,21 @@
 # Teachers
 
-1.
-
-2.
-
-3 - Henry the first but really the fifth
-
-4.
-1. Petr Zikan
-1. Tereza
+1. Henry the first but really the fifth.
+2. Petr Zikan
+3. Tereza
 
 # Students
 
+1. Monika Viskotova
 2. Marianna Dafcikova
-1. Filip Holoubek
-Nina Duchyňová
-Barbora Miklošová
-
-Matěj Bárta
-3. Barbora Hudackova
-??. Vasu
-
-1. Adriana Zacharova
-1. Alena Vanzurova
-2. Tomáš Pekárek
-
-7. Samuel
-8. Matúš Móro
+3. Filip Holoubek
+4. Nina Duchyňová
+5. Barbora Miklošová
+6. Matěj Bárta
+7. Barbora Hudackova
+8. Vasu
+9. Adriana Zacharova
+10. Alena Vanzurova
+11. Tomáš Pekárek
+12. Samuel
+13. Matúš Móro
