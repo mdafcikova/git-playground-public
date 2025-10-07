@@ -1,6 +1,6 @@
 # Teachers
 
-1. 
+1. Tereza
 
 # Students
 
