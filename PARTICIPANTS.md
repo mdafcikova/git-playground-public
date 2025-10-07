@@ -4,4 +4,8 @@
 
 # Students
 
-1. Matúš Móro
+1. Alena Vanzurova
+2. Tomáš Pekárek
+
+7. Samuel
+8. Matúš Móro
