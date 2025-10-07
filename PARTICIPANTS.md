@@ -1,5 +1,5 @@
 # Teachers
 
-1. 
+1. Petr Zikan
 
 # Students
