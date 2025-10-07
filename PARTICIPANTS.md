@@ -3,6 +3,7 @@
 1. 
 
 # Students
+Barbora Miklošová
 
 Matěj Bárta
 3. Barbora Hudackova
