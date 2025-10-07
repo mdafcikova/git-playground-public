@@ -3,4 +3,6 @@
 1. 
 
 # Students
-x. Alena Vanzurova
+
+1. Alena Vanzurova
+2. Tomáš Pekárek
