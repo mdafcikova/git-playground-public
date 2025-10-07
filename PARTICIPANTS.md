@@ -3,6 +3,7 @@
 1. 
 
 # Students
+Nina Duchyňová
 Barbora Miklošová
 
 Matěj Bárta
