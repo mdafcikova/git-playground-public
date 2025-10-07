@@ -3,6 +3,8 @@
 1. 
 
 # Students
+
+2. Marianna Dafcikova
 1. Filip Holoubek
 Nina Duchyňová
 Barbora Miklošová
