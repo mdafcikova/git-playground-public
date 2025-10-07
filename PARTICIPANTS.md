@@ -6,3 +6,5 @@
 
 1. Alena Vanzurova
 2. Tomáš Pekárek
+
+7. Samuel
